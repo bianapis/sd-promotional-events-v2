@@ -1,0 +1,1 @@
+# Promotional Events Service Domain v2.0

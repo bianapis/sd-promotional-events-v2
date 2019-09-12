@@ -1,0 +1,15 @@
+{
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "promotionalEventManagementPlanRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR767903",
+  "promotionalEventManagementPlanRequestActionTaskReference" : "PEMPRATR719752",
+  "requestResponseRecord" : {}
+}

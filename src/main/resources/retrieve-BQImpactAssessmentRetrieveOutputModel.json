@@ -1,0 +1,36 @@
+{
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPerformanceRecord" : {},
+    "promotionalEventSchedule" : "promotionalEventSchedule",
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricGoal" : "promotionalEventMetricGoal",
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "impactAssessmentInstanceReport" : {
+    "impactAssessmentInstanceReportRecord" : {},
+    "impactAssessmentInstanceReport" : {},
+    "impactAssessmentInstanceReportType" : "impactAssessmentInstanceReportType",
+    "impactAssessmentInstanceReportParameters" : "impactAssessmentInstanceReportParameters"
+  },
+  "impactAssessmentInstanceRecord" : {
+    "impactAssessmentWorkTaskType" : "impactAssessmentWorkTaskType",
+    "impactAssessmentWorkTask" : "impactAssessmentWorkTask",
+    "impactAssessmentWorkTaskDateTime" : "09-22-2018",
+    "impactAssessmentWorkTaskResult" : "impactAssessmentWorkTaskResult",
+    "impactAssessmentWorkTaskWorkProducts" : "impactAssessmentWorkTaskWorkProducts"
+  },
+  "impactAssessmentRetrieveActionResponse" : "impactAssessmentRetrieveActionResponse",
+  "impactAssessmentRetrieveActionTaskRecord" : {},
+  "impactAssessmentRetrieveActionTaskReference" : "IARATR741394",
+  "impactAssessmentInstanceAnalysis" : {
+    "impactAssessmentInstanceAnalysisReportType" : "impactAssessmentInstanceAnalysisReportType",
+    "impactAssessmentInstanceAnalysisRecord" : {},
+    "impactAssessmentInstanceAnalysisParameters" : "impactAssessmentInstanceAnalysisParameters",
+    "impactAssessmentInstanceAnalysisReport" : {}
+  }
+}

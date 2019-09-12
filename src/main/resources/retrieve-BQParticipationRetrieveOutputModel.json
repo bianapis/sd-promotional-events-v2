@@ -1,0 +1,37 @@
+{
+  "participationRetrieveActionTaskReference" : "PEMPRATR790726",
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPerformanceRecord" : {},
+    "promotionalEventSchedule" : "promotionalEventSchedule",
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricGoal" : "promotionalEventMetricGoal",
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "participationInstanceRecord" : {
+    "promotionalEventParticipationInstanceReference" : {
+      "employeeBusinessUnitReference" : "753610",
+      "promotionalEventExecutionSchedule" : "promotionalEventExecutionSchedule",
+      "promotionalEventResult" : "promotionalEventResult",
+      "promotionalEventSponsorshipBudget" : "promotionalEventSponsorshipBudget"
+    }
+  },
+  "participationRetrieveActionResponse" : "participationRetrieveActionResponse",
+  "participationInstanceReport" : {
+    "participationInstanceReportParameters" : "participationInstanceReportParameters",
+    "participationInstanceReport" : {},
+    "participationInstanceReportRecord" : {},
+    "participationInstanceReportType" : "participationInstanceReportType"
+  },
+  "participationRetrieveActionTaskRecord" : {},
+  "participationInstanceAnalysis" : {
+    "participationInstanceAnalysisRecord" : {},
+    "participationInstanceAnalysisReportType" : "participationInstanceAnalysisReportType",
+    "participationInstanceAnalysisParameters" : "participationInstanceAnalysisParameters",
+    "participationInstanceAnalysisReport" : {}
+  }
+}

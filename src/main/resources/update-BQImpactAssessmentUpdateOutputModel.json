@@ -1,0 +1,23 @@
+{
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPerformanceRecord" : {},
+    "promotionalEventSchedule" : "promotionalEventSchedule",
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "impactAssessmentInstanceRecord" : {
+    "impactAssessmentWorkTaskType" : "impactAssessmentWorkTaskType",
+    "impactAssessmentWorkTask" : "impactAssessmentWorkTask",
+    "impactAssessmentWorkTaskDateTime" : "09-22-2018",
+    "impactAssessmentWorkTaskResult" : "impactAssessmentWorkTaskResult",
+    "impactAssessmentWorkTaskWorkProducts" : "impactAssessmentWorkTaskWorkProducts"
+  },
+  "impactAssessmentUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "impactAssessmentUpdateActionTaskReference" : "IAUATR710654"
+}

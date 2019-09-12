@@ -1,0 +1,17 @@
+{
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPerformanceRecord" : {},
+    "promotionalEventSchedule" : "promotionalEventSchedule",
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricGoal" : "promotionalEventMetricGoal",
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "promotionalEventManagementPlanUpdateActionTaskReference" : "PEMPUATR794258",
+  "updateResponseRecord" : {},
+  "promotionalEventManagementPlanUpdateActionTaskRecord" : {}
+}

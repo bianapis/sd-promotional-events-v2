@@ -1,0 +1,27 @@
+{
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPerformanceRecord" : {},
+    "promotionalEventSchedule" : "promotionalEventSchedule",
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricGoal" : "promotionalEventMetricGoal",
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "promotionalEventManagementPlanRetrieveActionTaskRecord" : {},
+  "promotionalEventManagementPlanRetrieveActionTaskReference" : "PEMPRATR703663",
+  "promotionalEventManagementPlanInstanceAnalysis" : {
+    "promotionalEventManagementPlanInstanceAnalysisData" : "promotionalEventManagementPlanInstanceAnalysisData",
+    "promotionalEventManagementPlanInstanceAnalysisReportType" : "promotionalEventManagementPlanInstanceAnalysisReportType",
+    "promotionalEventManagementPlanInstanceAnalysisReport" : {}
+  },
+  "promotionalEventManagementPlanRetrieveActionResponse" : "promotionalEventManagementPlanRetrieveActionResponse",
+  "promotionalEventManagementPlanInstanceReportRecord" : {
+    "promotionalEventManagementPlanInstanceReportType" : "promotionalEventManagementPlanInstanceReportType",
+    "promotionalEventManagementPlanInstanceReport" : {},
+    "promotionalEventManagementPlanInstanceReportData" : "promotionalEventManagementPlanInstanceReportData"
+  }
+}

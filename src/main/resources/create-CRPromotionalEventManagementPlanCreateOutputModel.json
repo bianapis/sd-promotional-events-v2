@@ -1,0 +1,17 @@
+{
+  "promotionalEventManagementPlanInstanceReference" : "PEMPIR794172",
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPerformanceRecord" : {},
+    "promotionalEventSchedule" : "promotionalEventSchedule",
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "promotionalEventManagementPlanInstanceStatus" : "promotionalEventManagementPlanInstanceStatus",
+  "promotionalEventManagementPlanCreateActionReference" : "PEMPCAR789692",
+  "promotionalEventManagementPlanCreateActionRecord" : {}
+}

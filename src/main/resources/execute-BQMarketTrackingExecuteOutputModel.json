@@ -1,0 +1,27 @@
+{
+  "promotionalEventManagementPlanInstanceRecord" : {
+    "promotionalEventPerformanceRecord" : {},
+    "promotionalEventSchedule" : "promotionalEventSchedule",
+    "promotionalEventPortfolio" : {
+      "promotionalEventDescription" : "promotionalEventDescription",
+      "promotionalEventType" : "promotionalEventType",
+      "promotionalEventMetrics" : {
+        "promotionalEventMetricDefinition" : "promotionalEventMetricDefinition"
+      }
+    }
+  },
+  "marketTrackingExecuteActionTaskReference" : "MTEATR703443",
+  "marketTrackingExecuteRecordReference" : "MTERR726008",
+  "executeResponseRecord" : {},
+  "marketTrackingInstanceRecord" : {
+    "marketTrackingWorkTaskWorkProducts" : "marketTrackingWorkTaskWorkProducts",
+    "marketTrackingWorkTaskResult" : "marketTrackingWorkTaskResult",
+    "marketTrackingWorkTask" : {
+      "generalMarketResearchDirectoryEntryInstanceRecord" : {},
+      "generalMarketResearchDirectoryEntryInstanceReference" : "776421"
+    },
+    "marketTrackingWorkTaskType" : "marketTrackingWorkTaskType",
+    "marketTrackingWorkTaskDateTime" : "09-22-2018"
+  },
+  "marketTrackingExecuteActionTaskRecord" : {}
+}
